@@ -1,19 +1,30 @@
 .navbar{
+    display: flex;
+    justify-content: space-between;
     width: 100%;
     height: 80px;
     background-color: black;
-    display: flex;
-    justify-content: flex-end;
     align-items: center;
+}
 
+.shopTitle{
+    margin-left: 20px;
+    text-align: center;
+    font-size: 18px;
+    color: white;
+    text-decoration: none;
+}
+.shopTitle a {
+    color: white;
+    text-decoration: none;
 }
 
 
 .links{
     margin-right: 50px;
     display: flex;
+    justify-content: center;
     align-items: center;
-
 }
 
 
@@ -24,7 +35,9 @@
     font-size: 25px;
 }
 
-
+.cartIcon{
+    margin-top: 5px;
+}
 
 
 
