@@ -21,7 +21,7 @@
 
 ## Screenshots
 
--1  ![]([src\assets\screenshots\Screenshot1.png](https://github.com/ujjwalsolankii/Shopinger/blob/master/src/assets/screenshots/Screenshot1.png))
--2  ![]([src\assets\screenshots\Screenshot2.png](https://github.com/ujjwalsolankii/Shopinger/blob/master/src/assets/screenshots/Screenshot2.png)https://github.com/ujjwalsolankii/Shopinger/blob/master/src/assets/screenshots/Screenshot2.png)
--3  ![]([src\assets\screenshots\Screenshot3.png](https://github.com/ujjwalsolankii/Shopinger/blob/master/src/assets/screenshots/Screenshot3.png)https://github.com/ujjwalsolankii/Shopinger/blob/master/src/assets/screenshots/Screenshot3.png)
+-1  ![](https://raw.githubusercontent.com/ujjwalsolankii/Shopinger/master/src/assets/screenshots/Screenshot1.png)
+-2  ![](https://raw.githubusercontent.com/ujjwalsolankii/Shopinger/master/src/assets/screenshots/Screenshot2.png)
+-3  ![](https://raw.githubusercontent.com/ujjwalsolankii/Shopinger/master/src/assets/screenshots/Screenshot3.png)
 
